@@ -1,5 +1,6 @@
 # election-economics-EDA
-Exploring the relationship between economic indicators and election results.
+Exploring the relationship between economic indicators and election results using Python, Jupyter Notebook, pandas, numpy, scipy, matplotlib, seaborn. 
+
 Note: this project was completed in July 2023.
 ## Project summary
  - Data cleaning, data wrangling, creating a custom dataset
